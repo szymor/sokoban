@@ -2226,7 +2226,7 @@ void Credits()
 	SDL_PollEvent(&Event);
 	char *Tekst = new char[500];
 	sprintf(FileName,"./levelpacks/%s/credits.dat",LevelPackFileName);
-	if(InstalledLevelPacks > 0)
+	if(InstalledLevelPacksCount > 0)
 	{
 		Fp = fopen(FileName,"rt");
 		if (Fp)
