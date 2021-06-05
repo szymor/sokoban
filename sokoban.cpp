@@ -2412,8 +2412,8 @@ void TitleScreen()
 		{
 			sprintf(Tekst,"\n");
 			for(Teller=2;Teller<Selection;Teller++)
-				sprintf(Tekst,"%s%s",Tekst,"\n");
-			sprintf(Tekst,"%s%s",Tekst,">>");
+				strcat(Tekst, "\n");
+			strcat(Tekst, ">>");
 		}
 		else
 			sprintf(Tekst,">>");
