@@ -1,0 +1,1150 @@
+  ####
+  #  ###
+  #    #
+###$.# ##
+#  $.#  #
+# #$. # #
+#@  #   #
+#########
+Author: Aymeric du Peloux
+Title: LOMA01-01
+
+  ####
+  #  #
+###$.###
+#  $.  #
+#@ $.# #
+###    #
+   #  #
+   ####
+Author: François Marques
+Title: LOMA01-02
+
+  #####
+ ##   ##
+### #  #
+###$.# #
+#  $.#@#
+# #$.# #
+# #    #
+#  # ###
+##   ##
+ #####
+Author: David Skinner
+Title: LOMA01-03
+
+   ##########
+#### $.     #
+#    $. #@  #
+#   #$.######
+##### ##
+  #    #
+  #    #
+  #  ###
+  ####
+Author: Sven Egevad
+Title: LOMA01-04
+
+  ####
+ ##  ##
+ #    ###
+##$.#   #
+#@$.    #
+##$.#  ##
+#  ## ##
+#     #
+####  #
+   ####
+Author: Victor Kindermans
+Title: LOMA01-05
+
+ #####
+##   #
+#    #
+#    ####
+### ##@ #
+ ## ##  #
+ #  ##$.#
+ #    $.#
+ ##  #$.#
+  ####  #
+     #  #
+     ####
+Author: Michael Steins
+Title: LOMA01-06
+
+  ######
+  #    #
+###$.# #
+#  $.#@#
+# #$.  #
+#    ##
+##  ###
+#####
+Author: Frantisek Pokorny
+Title: LOMA01-07
+
+#####
+#   ####
+# #$.  #
+#@ $.# #
+###$.  #
+  #  ###
+  #  #
+  ####
+Author: Arpad Fekete
+Title: LOMA01-08
+
+########
+#      #
+# #$.@ #
+#  $.###
+# #$.#
+#   ##
+#####
+Author: David Skinner
+Title: LOMA01-09
+
+  ####
+  #  #
+  #  #
+###$.#
+#  $.###
+# #$.@ #
+#   ## #
+###    #
+  ######
+Author: Roger Delaporte
+Title: LOMA01-10
+
+    ####
+    #  #
+#####@ ##
+#   #$. #
+#    .$ #
+## # $.##
+ #   ###
+ #####
+Author: François Marques
+Title: LOMA02-01
+
+ #########
+##   ##  #
+#  #$.   #
+# #@.$#  #
+#   $.  ##
+#########
+Author: Aymeric du Peloux
+Title: LOMA02-02
+
+    ####
+  ###  #
+  #    #
+  #    #
+  ## ###
+#### $.##
+#    .$@#
+#   #$.##
+##### ##
+  #    #
+  #    #
+  #  ###
+  ####
+Author: Sven Egevad
+Title: LOMA02-03
+
+  ######
+  #    ##
+ ##$.#  #
+ # .$@  #
+## $.# ##
+#  ### #
+#      #
+#####  #
+    ####
+Author: Victor Kindermans
+Title: LOMA02-04
+
+   #########
+####@$.#   #
+#   #.$    #
+#    $.#####
+########
+Author: Michael Steins
+Title: LOMA02-05
+
+#####
+#   ####
+# #$.  #
+#  .$#@#
+###$.  #
+  #  ###
+  #  #
+  ####
+Author: David Skinner
+Title: LOMA02-06
+
+  #####
+###   #
+#   # #
+# #$. #
+#  .$@#
+###$.##
+  #  #
+  #  #
+  ####
+Author: Frantisek Pokorny
+Title: LOMA02-07
+
+  ####
+  #@ #
+###$.####
+#  .$   #
+#  $. # #
+### ##  #
+  #    ##
+  ######
+Author: Arpad Fekete
+Title: LOMA02-08
+
+  ######
+###    #
+#   ## #
+# #$.  #
+#@#.$###
+# #$.##
+#     #
+###   #
+  #####
+Author: David Skinner
+Title: LOMA02-09
+
+#####
+#   ####
+#   $. #
+####.$@#
+#   $. #
+#   ####
+#####
+Author: Roger Delaporte
+Title: LOMA02-10
+
+  #####
+###.  #
+#  *  #
+# #*###
+#  $ #
+#  @ #
+#  ###
+####
+Author: François Marques
+Title: LOMA03-01
+
+ #######
+##  .  #
+#  #*# #
+#   *  #
+#  #$ ##
+##  @##
+ #####
+Author: Aymeric du Peloux
+Title: LOMA03-02
+
+     ######
+   ###.#  #
+   #@ *   #
+######*## #
+#     $   ##
+#   #  #   #
+########   #
+       #####
+Author: Sven Egevad
+Title: LOMA03-03
+
+   ####
+ ###  #
+## .  ##
+#  *   #
+# #*#@ #
+#  $  ##
+####  #
+   ####
+Author: Victor Kindermans
+Title: LOMA03-04
+
+#######
+#   #.##
+#    *@#
+#####* #
+  #  $ #
+  #   ##
+  #####
+Author: Michael Steins
+Title: LOMA03-05
+
+  ####
+ ##  #
+ # . #
+ # * #
+## *###
+#  $ #
+#  @ #
+#  ###
+####
+Author: David Skinner
+Title: LOMA03-06
+
+  #####
+  # . #
+  # * #
+ ## *###
+ #  $@ #
+ # # # #
+ #     #
+ #######
+Author: Frantisek Pokorny
+Title: LOMA03-07
+
+    ####
+  ###  ####
+  # .     #
+  # * @#  #
+####*###  #
+#   $     #
+#   ####  #
+#####  ####
+Author: Arpad Fekete
+Title: LOMA03-08
+
+####
+#  ####
+#     #
+#  .# #
+###*# ##
+ #@*   #
+ # $   #
+ ###  ##
+   ####
+Author: David Skinner
+Title: LOMA03-09
+
+########
+#@ .   #
+#  * # #
+###*## #
+#  $   #
+#      #
+########
+Author: Roger Delaporte
+Title: LOMA03-10
+
+#####
+#   ###
+# #.  ##
+#  $   #
+###*## #
+#  $ # ##
+#  .    #
+## @#   #
+ ########
+Author: Aymeric du Peloux
+Title: LOMA04-01
+
+###### #
+#   ## #
+#  . #
+#  $ ###
+## * @ #
+###$ # #
+  #.#  #
+# #   ##
+# ######
+Author: David Skinner
+Title: LOMA04-02
+
+ #####
+##   #
+#    #
+# #.###
+#  $  #
+###*# #
+ # $@ #
+ # .  #
+ ###  #
+   ####
+Author: François Marques
+Title: LOMA04-03
+
+  ###   
+###.##### 
+#@ $    #
+# #*#   #
+#  $  ###
+###.###
+ #    #
+ #    #
+ #  ###
+ ####
+Author: Sven Egevad
+Title: LOMA04-04
+
+ #######
+ # .   #
+ # $   #
+###*#@##
+#  $  #
+#  .###
+#####
+Author: Victor Kindermans
+Title: LOMA04-05
+
+ ###
+ #.#####
+##$#   #
+#@*    #
+##$#####
+ #.#
+ ###
+Author: Michael Steins
+Title: LOMA04-06
+
+#######
+#   . ##
+# # $  #
+#  #*# #
+##  $  #
+ #@#.###
+ #   #
+ #####
+Author: Frantisek Pokorny
+Title: LOMA04-07
+
+   ####
+ ###  ####
+ # .     #
+ #@$  #  #
+###*###  #
+#  $     #
+#  .###  #
+##### ####
+Author: Arpad Fekete
+Title: LOMA04-08
+
+#####
+#   ##
+# #. ###
+#  $ @ #
+###*   #
+#  $ ###
+# #.##
+#   #
+#####
+Author: David Skinner
+Title: LOMA04-09
+
+#######
+#  .  #
+#  $  #
+###*#@#
+#  $  #
+#  .###
+#####
+Author: Roger Delaporte
+Title: LOMA04-10
+
+ ####
+ #  #
+ #  #
+ #  ####
+###$$  #
+#  $.  #
+# #..###
+# @# #
+##   #
+######
+Author: David Skinner
+Title: LOMA05-01
+
+    #####
+#####   #
+#  ## # #
+#  @$$  #
+#  #$.###
+##  ..  #
+  ###   #
+    #####
+Author: François Marques
+Title: LOMA05-02
+
+  #####
+  #   #
+  # # #
+###   #
+#  $$ #
+# #$.###
+# #..  #
+#  #@  #
+##  ## #
+ ##    #
+  ######
+Author: Aymeric du Peloux
+Title: LOMA05-03
+
+    #### 
+  ###  #
+  #    #
+  #    #
+ ###@###
+## $$#
+#  $.#
+# #..#
+# ## #
+#    ####
+##      #
+ #  #   #
+ ########
+Author: Sven Egevad
+Title: LOMA05-04
+
+########
+#   #  #
+#   #  #
+##  $$ #
+ # #$.###
+ # #.. @#
+ # ###  #
+ #      #
+ ########
+Author: Victor Kindermans
+Title: LOMA05-05
+
+ ####
+ #  #
+ #  #####
+ #  ##  ##
+###$$    #
+# @$.##  #
+#  ..## ##
+#######  #
+ #       #
+ #   #  ##
+ ########
+Author: Michael Steins
+Title: LOMA05-06
+
+  #####
+  #   #
+  # # #
+###$$ #
+#  $. #
+# #..##
+#@   #
+######
+Author: Frantisek Pokorny
+Title: LOMA05-07
+
+ ####
+ #  #
+ #  #
+ #  ######
+###$$    #
+#  $. ## #
+#  ..#  @#
+####   ###
+   #####
+Author: Arpad Fekete
+Title: LOMA05-08
+
+#####
+#  @####
+# #$$  #
+#  $.# #
+###..  #
+  ##   #
+   #####
+Author: David Skinner
+Title: LOMA05-09
+
+  ####
+  #  #
+###  ###
+#  $$@ #
+# #$.# #
+#  ..  #
+########
+Author: Roger Delaporte
+Title: LOMA05-10
+
+   ###
+###  #
+#  $ ##
+#@.*. #
+## $  #
+  ##  #
+   #  #
+   ####
+Author: François Marques
+Title: LOMA06-01
+
+    ####
+    #  #
+#####  ##
+#   #$  #
+#   .*. #
+## ##$###
+#   #@#
+#     #
+####  #
+   ####
+Author: Aymeric du Peloux
+Title: LOMA06-02
+
+#####
+#   #####
+# #$#   #
+# .*.   #
+# #$#   #
+#  @#   #
+#########
+Author: Sven Egevad
+Title: LOMA06-03
+
+   ####
+#### @#
+#  $  #
+# .*. #
+#  $  #
+## ####
+#  #
+#  #
+#  #
+####
+Author: Victor Kindermans
+Title: LOMA06-04
+
+   ####
+   #  #
+   #  #
+   #  #
+####$###
+#  .*.@#
+#  #$###
+#  #  #
+##    #
+ #  ###
+ ####
+Author: Michael Steins
+Title: LOMA06-05
+
+  ##### 
+  ##  # 
+###   # 
+#  $  # 
+# .*.## 
+## $ # 
+###@ # 
+  #### 
+Author: David Skinner
+Title: LOMA06-06
+
+ ####
+ #  #
+ # $###
+##.*. #
+#  $  #
+# # # #
+#  @  #
+#######
+Author: Frantisek Pokorny
+Title: LOMA06-07
+
+    ####
+    #  #
+#####  #####
+# @   $#   #
+#   #.*.   #
+##### $#####
+    #  #
+    #  #
+    ####
+Author: Arpad Fekete
+Title: LOMA06-08
+
+  #### 
+ ##  # 
+###$ # 
+# .*.# 
+# #$ # 
+#  @ # 
+#   ## 
+##### 
+Author: David Skinner
+Title: LOMA06-09
+
+ ######
+ #    #
+## ##$###
+#   .*.@#
+#   #$###
+###   #
+  #####
+Author: Roger Delaporte
+Title: LOMA06-10
+
+  #####
+###   #
+#   # ##
+#   $  #
+###$*. #
+  # .###
+  # @#
+  ####
+Author: François Marques
+Title: LOMA07-01
+
+########
+#   #  #
+#      #
+## ### ##
+ # $@#  #
+ #$*.   #
+ # .#####
+ #  #
+ #  #
+ ####
+Author: Aymeric du Peloux
+Title: LOMA07-02
+
+####
+#  ####
+#     #
+#     #
+### ####
+ #@$#  #
+ #$*.  #
+## .#  #
+#  ## ##
+#     #
+####  #
+   ####
+Author: Sven Egevad
+Title: LOMA07-03
+
+#####
+#   #######
+# # ##    #
+#     $   #
+#####$*.###
+    #@. #
+    #####
+Author: Victor Kindermans
+Title: LOMA07-04
+
+  ####
+  #  #
+  #  #
+  #  #
+### $##
+#  $*.#
+#  @.#
+#####
+Author: Michael Steins
+Title: LOMA07-05
+
+#####
+#   ##
+#  $ ##
+##$*. ##
+ # .@  #
+ #  #  #
+#####  #
+##  ####
+Author: David Skinner
+Title: LOMA07-06
+
+  ####
+###  #
+#    ###
+# #  $@#
+#  #$*.#
+##   . #
+ ###  ##
+   ####
+Author: Frantisek Pokorny
+Title: LOMA07-07
+
+ ######
+##    ##
+#  ##  #
+# #  # #
+#  @$# #
+###$*. #
+  # .###
+  #  #
+  #  #
+  #  #
+  #  #
+  ####
+Author: Arpad Fekete
+Title: LOMA07-08
+
+#####
+#   ####
+# #@$  #
+#  $*. #
+####. ##
+ #    #
+ #   ##
+ #####
+Author: David Skinner
+Title: LOMA07-09
+
+######
+#    #
+# # $####
+# #$*. @#
+# # .#  #
+#      #
+#####  #
+     ##
+Author: Roger Delaporte
+Title: LOMA07-10
+
+   ####
+   #  #
+####  #
+#   * #
+#  . $###
+####* @ #
+   #    #
+   ######
+Author: François Marques
+Title: LOMA08-01
+
+  ####
+  #  #
+  #  #
+ ##* ###
+##. $  #
+#  * # #
+# # @# #
+#  ##  #
+##    ##
+ ######
+Author: Aymeric du Peloux
+Title: LOMA08-02
+
+#########
+#   #   ####
+#   @*  #  ###
+####.#$#     #
+  #  *     # #
+  #  #####   #
+  #  #   #####
+  ####
+Author: Sven Egevad
+Title: LOMA08-03
+
+    ####
+ ####  #
+ #     #
+ #  ## ##
+ ## # * #
+  # #.@$#
+### ##* ####
+#          #
+#   ####   #
+#####  #####
+Author: Victor Kindermans
+Title: LOMA08-04
+
+ ####
+ #  #####
+ #  #   #
+ #  *   #
+###.#$###
+#   *@ #
+#   #  #
+#####  #
+    ####
+Author: Michael Steins
+Title: LOMA08-05
+
+  #####
+ ##   #
+###   #
+#  * ##
+# .@$##
+#  * ##
+##  ##
+#####
+Author: David Skinner
+Title: LOMA08-06
+
+   #####
+####   #
+#   *  #
+#  . $##
+### * #
+  ##@##
+   ###
+Author: Frantisek Pokorny
+Title: LOMA08-07
+
+########
+#   #  #
+#@# *  ##
+#  .#$  #
+##  * # #
+ #  #   #
+ ########
+Author: Arpad Fekete
+Title: LOMA08-08
+
+ #### 
+ #  ## 
+## * ## 
+# .@$ # 
+#  *  # 
+#  #  # 
+####### 
+Author: David Skinner
+Title: LOMA08-09
+
+#####
+#   ####
+#  @*  ###
+###.#$   #
+  # *    #
+  ########
+Author: Roger Delaporte
+Title: LOMA08-10
+
+  #####
+  #   #
+ #    #
+##$*@##
+# *.#
+#    #
+###  #
+  #  #
+  ####
+Author: François Marques
+Title: LOMA09-01
+
+ #####
+ #   ####
+## # #@ #
+#    #$*#
+# #   *.##
+#   ##   #
+#####  # #
+    # #  #
+    #   ##
+    #####
+Author: Aymeric du Peloux
+Title: LOMA09-02
+
+   ####
+  ##  #
+  #   #
+ ##$* #
+ # *.##
+## #  #
+#     #
+#    ##
+#  @##
+#####
+Author: Sven Egevad
+Title: LOMA09-03
+
+####
+#  ####
+#     #
+# @#  #
+#    ##
+###$*##
+ # *. #
+ #    #
+ ###  #
+   ####
+Author: Victor Kindermans
+Title: LOMA09-04
+
+     ####
+######  #
+#   ##  #
+#       #
+#####$*##
+#    *.#
+#   #@ #
+########
+Author: Michael Steins
+Title: LOMA09-05
+
+  ####
+  #  #
+###  ###
+## $*  #
+#  *. @#
+#   ####
+#  ##
+#####
+Author: David Skinner
+Title: LOMA09-06
+
+  ####
+  #  #
+### @###
+#  $*  #
+#  *.  #
+###   ##
+  #####
+Author: Frantisek Pokorny
+Title: LOMA09-07
+
+  ####
+  #  #
+###@ ####
+#  $*   #
+#  *. # #
+### ##  #
+  #    ##
+  ######
+Author: Arpad Fekete
+Title: LOMA09-08
+
+#####
+#   #####
+#   #   #
+## $*@  #
+ # *.  ##
+ #  ####
+ ####
+Author: David Skinner
+Title: LOMA09-09
+
+    #####
+    #   #
+    # # ##
+#####    #
+#   ##$* #
+#     *. #
+#######@##
+      ###
+Author: Roger Delaporte
+Title: LOMA09-10
+
+#### ###
+#@ ### #
+# $$ ###
+# $ .  #
+## ..  #
+ #######
+Author: David Skinner
+Title: LOMA10-01
+
+######
+# @  #
+#  $$##
+###$ .#
+  # ..#
+  ##  #
+   #  #
+   ####
+Author: François Marques
+Title: LOMA10-02
+
+ ########
+##  #   ##
+#   $$#  #
+#  #$@.# #
+## # ..  #
+#    #  ##
+#   ##  #
+#########
+Author: Aymeric du Peloux
+Title: LOMA10-03
+
+  ####
+  #  #
+  #  # 
+###  #
+# $$##
+# $ .#
+# #..#
+# @  #
+#### #
+  #  #
+  #  #
+  #  #
+  ####
+Author: Sven Egevad
+Title: LOMA10-04
+
+  ######
+  #    #
+  #    #
+  #  ###
+####$$@#
+#   $ .#
+#   #..#
+########
+Author: Victor Kindermans
+Title: LOMA10-05
+
+    ###### 
+    #    ##
+##### ##  #
+#   #$$ # #
+#    $@.  #
+######.. ##
+     #####
+Author: Michael Steins
+Title: LOMA10-06
+
+######
+#    #
+# ##@#
+#  $$##
+###$ .#
+  # ..#
+  #   #
+  #####
+Author: Frantisek Pokorny
+Title: LOMA10-07
+
+######
+#  #@#
+#  $$#####
+#  $ .   #
+### ..   #
+  ##  ####
+   ####
+Author: Arpad Fekete
+Title: LOMA10-08
+
+####
+#  #
+#@ ###
+# $$ ##
+# $ . #
+###.. #
+ #   ##
+ #   #
+ #####
+Author: David Skinner
+Title: LOMA10-09
+
+########
+#      #
+# #### #
+# #  # #
+# #  # #
+# #  # #
+# #$$# #
+#  $@. #
+### ..##
+  #####
+Author: Roger Delaporte
+Title: LOMA10-10

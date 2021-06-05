@@ -1,0 +1,1 @@
+arm-linux-g++ -c sokoban.cpp -o sokoban.o -Ic:\devkitgp2x\include -Ic:\devkitgp2x\include\SDL -W -Wall -Wno-deprecated -Wno-sign-compare -Wno-unused -Wpointer-arith -Wcast-align -Waggregate-return -Wshadow

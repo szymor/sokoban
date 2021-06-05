@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1161275194 c:\devkitgp2x\davy\sokoban\sokoban.cpp
+	<sys/stat.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<dirent.h>
+	<unistd.h>
+	<SDL/SDL_keysym.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	"gp2x.h"
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL_Gp2x.h>
+
+1145069324 c:\devkitgp2x\davy\sokoban\gp2x.h
+

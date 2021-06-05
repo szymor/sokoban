@@ -1,0 +1,1 @@
+g++ -c sokobanwin.cpp -o sokobanwin.o -Ic:\mingw\include -Ic:\mingw\include\SDL -W -Wall -Wno-deprecated -Wno-sign-compare -Wno-unused -Wpointer-arith -Wcast-align -Waggregate-return -Wshadow -O3 -fstrict-aliasing -fexpensive-optimizations -falign-functions -fweb -frename-registers -fomit-frame-pointer -ffast-math -finline -finline-functions -fno-builtin -fno-common

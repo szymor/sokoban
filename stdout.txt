@@ -1,0 +1,5 @@
+SDL Succesfully initialized
+Succesfully Set 640x480x16
+Audio Succesfully initialised!
+Succesfully initialized TTF
+Succesfully Loaded fonts

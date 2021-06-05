@@ -1,0 +1,14 @@
+[TextColor]
+R=140
+G=105
+B=82
+[MenuBoxColor]
+R=189
+G=170
+B=140
+A=255
+[MenuBoxBorderColor]
+R=140
+G=105
+B=82
+A=140
