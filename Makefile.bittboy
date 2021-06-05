@@ -1,0 +1,11 @@
+.PHONY: all clean
+
+TARGET=sokoban
+
+all: $(TARGET)
+
+$(TARGET):
+	arm-linux-g++ sokoban.cpp Functions.cpp CUsbJoystickSetup.cpp CInput.cpp -o $@ -I/opt/miyoo/arm-buildroot-linux-musleabi/sysroot/usr/include/SDL/ -lSDL_image -lSDL_mixer -lSDL_ttf -lSDL_gfx -lfreetype -lbz2 -lpng -lz -lmpg123 -lvorbisidec -logg -lSDL -lasound -lmikmod -ljpeg
+
+clean:
+	rm -rf $(TARGET)
