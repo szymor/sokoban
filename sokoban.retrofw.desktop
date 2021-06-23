@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Sokoban
+Comment=A Japanese puzzle video game
+Exec=sokoban
+Terminal=false
+Type=Game
+StartupNotify=true
+Icon=icon
+Categories=games;
+Version=20210623
+X-OD-Manual=README.md

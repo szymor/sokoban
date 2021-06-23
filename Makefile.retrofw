@@ -1,0 +1,17 @@
+.PHONY: all clean opk
+
+TARGET=sokoban
+OPK=sokoban.opk
+OPK_DEPS=sokoban icon.png font.ttf font1.ttf README.md graphics levelpacks music sound sokoban.retrofw.desktop
+
+all: $(TARGET)
+opk: $(OPK)
+
+$(TARGET): sokoban.cpp Functions.cpp CUsbJoystickSetup.cpp CInput.cpp
+	mipsel-linux-g++ sokoban.cpp Functions.cpp CUsbJoystickSetup.cpp CInput.cpp -o $@ -I/opt/retrofw/mipsel-RetroFW-linux-uclibc/sysroot/usr/include/SDL/ -lSDL_image -lSDL_mixer -lSDL_ttf -lSDL_gfx -lSDL
+
+$(OPK): $(TARGET)
+	mksquashfs $(OPK_DEPS) $@ -noappend -no-xattrs
+
+clean:
+	rm -rf $(TARGET)
