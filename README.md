@@ -24,5 +24,5 @@ http://www.willemssoft.be
 Music taken from http://www.mirsoft.info/gmb  
 Music Composers: Barry Leitch, David Whittaker, Brian Johnston, Raymond Usher
 
-Bittboy port by szymor a.k.a. vamastah  
+Bittboy and RetroFW port by szymor a.k.a. vamastah  
 https://szymor.github.io/

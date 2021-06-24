@@ -11,7 +11,7 @@ $(TARGET): sokoban.cpp Functions.cpp CUsbJoystickSetup.cpp CInput.cpp
 	mipsel-linux-g++ sokoban.cpp Functions.cpp CUsbJoystickSetup.cpp CInput.cpp -o $@ -I/opt/retrofw/mipsel-RetroFW-linux-uclibc/sysroot/usr/include/SDL/ -lSDL_image -lSDL_mixer -lSDL_ttf -lSDL_gfx -lSDL
 
 $(OPK): $(TARGET)
-	mksquashfs $(OPK_DEPS) $@ -noappend -no-xattrs
+	mksquashfs $(OPK_DEPS) $@ -noappend -no-xattrs -ef excludelist.txt
 
 clean:
-	rm -rf $(TARGET)
+	rm -rf $(TARGET) $(OPK)
