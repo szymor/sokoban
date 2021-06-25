@@ -1316,7 +1316,14 @@ void SaveUnlockData()
 	LevelHash[1] = HashTable[UnlockedLevels];
 	LevelHash[2] = HashTable[UnlockedLevels+1];
 	LevelHash[3] = HashTable[UnlockedLevels+2];
+#ifdef HOME_CONFIG
+	const char *home = getenv("HOME");
+	sprintf(Filename, "%s/.sokoban", home);
+	mkdir(Filename, 0744);
+	sprintf(Filename, "%s/.sokoban/%s.dat", home, LevelPackFileName);
+#else
 	sprintf(Filename,"./%s.dat",LevelPackFileName);
+#endif
 	for (Teller=0;Teller<4;Teller++)
 		LevelHash[Teller] = LevelHash[Teller] ^ LevelPackFileName[strlen(LevelPackFileName)-1];
 	for (Teller=0;Teller<strlen(LevelPackFileName);Teller++)
@@ -1380,7 +1387,12 @@ void LoadUnlockData()
 	int Teller=0;
 	unsigned char HashBuffer[64];
 	char Filename[FILENAME_MAX];
+#ifdef HOME_CONFIG
+	const char *home = getenv("HOME");
+	sprintf(Filename, "%s/.sokoban/%s.dat", home, LevelPackFileName);
+#else
 	sprintf(Filename,"./%s.dat",LevelPackFileName);
+#endif
 	Fp = fopen(Filename,"rb");
 	int CheckSum,ValidCheckSum=0;
 	if (Fp)
